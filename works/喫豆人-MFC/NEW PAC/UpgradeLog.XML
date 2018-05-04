@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hello">
+</Property><Property Name="方案檔" Value="C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\Hello.sln">
+</Property><Property Name="Date" Value="2014年1月7日">
+</Property><Property Name="Time" Value="上午 09:43">
+</Property></Properties><Event ErrorLevel="0" Project="Hello" Source="Hello.vcproj" Description="Converting project file 'C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\Hello.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Hello" Source="Hello.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Hello" Source="Hello.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\.\Debug\Hello.exe') does not match the Linker's OutputFile property value '.\Debug/Hello.exe' ('C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\Debug/Hello.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Hello" Source="Hello.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\.\Release\Hello.exe') does not match the Linker's OutputFile property value '.\Release/Hello.exe' ('C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\Release/Hello.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Hello" Source="Hello.vcproj" Description="Done converting to new project file 'C:\Users\user\期末作業1-蟑螂遊戲\期末作業2-蟑螂遊戲\Hello.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Hello" Source="Hello.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hello.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Hello.sln" Description="Converted">
+</Event></UpgradeLog>
